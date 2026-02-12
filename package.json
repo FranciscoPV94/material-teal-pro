@@ -2,7 +2,7 @@
   "name": "material-teal-pro",
   "displayName": "Material Teal Pro",
   "description": "Minimal Dark Teal Theme optimized for Flutter & Dart",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.109.0"
   },
