@@ -1,0 +1,37 @@
+{
+  "name": "material-teal-pro",
+  "displayName": "Material Teal Pro",
+  "description": "Minimal Dark Teal Theme optimized for Flutter & Dart",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "publisher": "fperaltadev",
+	"author": {
+		"name": "Francisco Peralta"
+	},
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+		"material",
+		"material dark green",
+		"dark green",
+		"green",
+		"theme",
+		"material design",
+		"material dark",
+		"green dark",
+    "flutter theme"
+	],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Teal Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material Teal Pro-color-theme.json"
+      }
+    ]
+  }
+}
